@@ -1,0 +1,8 @@
+/* Start Global Rules */
+:root {--orange: hsl(26, 100%, 55%); --pale-orange: hsl(25, 100%, 94%); --Very-dark-blue: hsl(220, 13%, 13%); --Grayish-blue: hsl(220, 14%, 75%); --Light-grayish-blue: hsl(223, 64%, 98%);}
+* {box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;}
+html {font-size: 16px;}
+body {font-family: "Kumbh Sans", sans-serif; background-color: var(--Light-grayish-blue); margin: 0;}
+
+
+/* End Global Rules */
